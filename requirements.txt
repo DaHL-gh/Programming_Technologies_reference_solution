@@ -1,0 +1,4 @@
+moderngl
+pillow
+pygame
+numpy
